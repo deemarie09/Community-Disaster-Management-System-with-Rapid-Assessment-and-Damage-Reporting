@@ -1,6 +1,6 @@
 # Lasconia-et.al.
 
-Every year, hundreds of thousands of lives are disrupted by disasters that threaten human life and property. Thus, the researchers proposed to develop a community disaster management system with rapid assessment and damage reporting. It is a web-based system that integrates Kobo Toolbox API to collect the data of the household and for the assessments. This system can calculate routes for the mapping of the household to monitor the affected household. The study uses the Waterfall method. With the help of the system, the community can now easily monitor the status of the people that affected by a disaster. The ten users who evaluated the system utilizing the demonstration video gave the researchers a mean of 4.165, which is equivalent to a “Very Satisfactory” rate. 
+The researchers proposed to develop a community disaster management system with rapid assessment and damage reporting. It is a web-based system that integrates Kobo Toolbox API to collect the data of the household and for the assessments. This system can calculate routes for the mapping of the household to monitor the affected household. The study uses the Waterfall method. With the help of the system, the community can now easily monitor the status of the people that affected by a disaster. The system is  built with Php, CSS,HTML and Javascript.
 
 In general, this study aims to develop a community disaster management system with rapid assessment and damage reporting. 
 Specifically, it aims to; 
