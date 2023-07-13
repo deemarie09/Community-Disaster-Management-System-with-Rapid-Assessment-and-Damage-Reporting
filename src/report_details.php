@@ -66,10 +66,9 @@ $finalArr = $kobo_api->grouped_types($data_array, 'Disaster_Event');
             <li><a href="dashboard.php"><i class="fas fa-home"></i> Home</a></li>
             <li><a href="profile.php"><i class="fas fa-user"></i> Profile</a></li>
             <li><a href="household.php"><i class="fas fa-house-user"></i> Household</a></li>
-            <li><a href="#"><i class="fas fa-inbox"></i> Messages</a></li>
             <li><a href="rapid.php"><i class="fas fa-file-alt"></i> Rapid Needs Assessment</a></li>
             <li><a href="Damage.php"><i class="fas fa-file-alt"></i> Damage Assessment</a></li>
-            <li><a href="distribution.php"><i class="fas fa-file-alt"></i> Distribution</a></li>
+            <li><a href="distribution.php"><i class="fas fa-map-marker"></i> Distribution</a></li>
             <li><a href="index.php"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
         </ul>
     </div>
