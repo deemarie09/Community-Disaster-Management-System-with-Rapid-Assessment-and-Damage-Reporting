@@ -74,7 +74,7 @@ $data_array = $sortedArray[$_GET['disaster']];
                             <table id="table" class="table table-bordered table-striped table-hovered text-center">
                                 <thead>
                                     <tr>
-                                        <th>Name of Disaster </th>
+                                        
                                         <th>Date & Time of Occurence </th>
                                         <th>Household Number</th>
                                         <th>Household Head</th>
@@ -91,7 +91,7 @@ $data_array = $sortedArray[$_GET['disaster']];
                                     ?>
                                     <?php foreach ($data_array as $key => $result): ?>
                                         <tr>
-                                            <td><?=(@$result['Name_of_Type_of_Disaster'] ? ucwords(@$result['Name_of_Type_of_Disaster']) : 'NA')?></td>
+                                            
                                             <td>
                                                 <?=date("F j, Y h:i A", strtotime($result['Date_and_Time_of_Occurrence']))?>
                                             </td>
