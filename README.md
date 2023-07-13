@@ -17,14 +17,13 @@ Specifically, it aims to;
 3. Disclaimer Page											
 4. Table of Contents											
 5. Guide for Deploying and Using the System’s Main Functions    			
-	Getting Started										
-	     Introduction										
-	     System Requirements									
-	     Installation										
-	     Download and system setup								
-	Accessing KoboToolbox (Only for admin)						
-	How to Use  Community Disaster 							
-            Management System
-Troubleshooting											
-Frequently Asked Questions (FAQ)								
-Contact Details of Development Team
+	*Getting Started										
+	     *Introduction										
+	     *System Requirements									
+	     *Installation										
+	     *Download and system setup								
+	*Accessing KoboToolbox (Only for admin)						
+	*How to Use  Community Disaster Management System
+6. Troubleshooting											
+7. Frequently Asked Questions (FAQ)								
+8. Contact Details of Development Team
