@@ -12,11 +12,11 @@ Specifically, it aims to;
 
 # Table of Contents
 
-Cover Page												
-Title Page												
-Disclaimer Page											
-Table of Contents											
-Guide for Deploying and Using the System’s Main Functions    			
+1. Cover Page												
+2. Title Page												
+3. Disclaimer Page											
+4. Table of Contents											
+5. Guide for Deploying and Using the System’s Main Functions    			
 	Getting Started										
 	     Introduction										
 	     System Requirements									
