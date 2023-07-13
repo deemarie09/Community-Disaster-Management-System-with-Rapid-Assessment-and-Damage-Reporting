@@ -1,0 +1,7 @@
+{
+    "require": {
+        "twilio/sdk": "^6.42",
+        "vonage/client": "^2.4",
+        "spipu/html2pdf": "^5.2"
+    }
+}

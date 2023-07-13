@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mapbox/leaflet-pip": "^1.1.0",
+    "datatables.net-dt": "^1.13.1"
+  }
+}
