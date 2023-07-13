@@ -1,4 +1,4 @@
-# Lasconia-et.al.
+
 
 The researchers proposed to develop a community disaster management system with rapid assessment and damage reporting. It is a web-based system that integrates Kobo Toolbox API to collect the data of the household and for the assessments. This system can calculate routes for the mapping of the household to monitor the affected household. The study uses the Waterfall method. With the help of the system, the community can now easily monitor the status of the people that affected by a disaster. The system is  built with Php, CSS,HTML and Javascript.
 
@@ -9,3 +9,22 @@ Specifically, it aims to;
 3.	Integrate an instrument for conducting damage assessment for analysis and reporting; 
 4.	Develop a distribution route to calculate the shortest path to distribute the urgent needs of the vulnerable population; and 
 5.	Evaluate the system based on ISO 25010 software quality standard.
+
+# Table of Contents
+
+Cover Page												
+Title Page												
+Disclaimer Page											
+Table of Contents											
+Guide for Deploying and Using the System’s Main Functions    			
+	Getting Started										
+	     Introduction										
+	     System Requirements									
+	     Installation										
+	     Download and system setup								
+	Accessing KoboToolbox (Only for admin)						
+	How to Use  Community Disaster 							
+            Management System
+Troubleshooting											
+Frequently Asked Questions (FAQ)								
+Contact Details of Development Team
