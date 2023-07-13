@@ -10,20 +10,3 @@ Specifically, it aims to;
 4.	Develop a distribution route to calculate the shortest path to distribute the urgent needs of the vulnerable population; and 
 5.	Evaluate the system based on ISO 25010 software quality standard.
 
-# Table of Contents
-
-1. Cover Page												
-2. Title Page												
-3. Disclaimer Page											
-4. Table of Contents											
-5. Guide for Deploying and Using the System’s Main Functions    			
-	*Getting Started										
-	     *Introduction										
-	     *System Requirements									
-	     *Installation										
-	     *Download and system setup								
-	*Accessing KoboToolbox (Only for admin)						
-	*How to Use  Community Disaster Management System
-6. Troubleshooting											
-7. Frequently Asked Questions (FAQ)								
-8. Contact Details of Development Team
